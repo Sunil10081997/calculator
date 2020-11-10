@@ -1,0 +1,53 @@
+*{
+    background-color: rgb(55, 45, 199);
+}
+body{
+    color: #6cacc5;
+    font: 18px/1.1 "Source Sans Pro", sans-serif;
+    padding: 5em 0 2em;
+    text-align: center;
+}
+h1{
+    font-weight: lighter;
+    background-color:greenyellow;
+    width: 380px;
+    margin-left: 480px;
+}
+
+.calci{
+    font-size: 20px;
+    width: 20em;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.inputscreen{
+    color:rgb(139, 19, 19);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -2px;
+    margin-right: 20px;
+    border-radius: 25px;
+
+}
+.del{
+    margin-bottom: -40px;
+    margin-right:300px;
+}
+
+button{
+    background: red;
+    color: black;
+    font: inherit;
+    width: 3em;
+    padding: 2em;
+    margin: 0.3em;
+    outline: green;
+    border:green;
+}
+button:hover{
+    opacity: 0.4;
+}
